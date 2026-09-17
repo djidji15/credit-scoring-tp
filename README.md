@@ -3,9 +3,9 @@ Prédiction du scoring de crédit avec Python (CART, k-NN, MLP) : feature engine
 # TP Data Mining — Scoring de crédit
 
 **Travail réalisé en groupe par 3 membres :**
+- Yennek Aldjia (moi)
 - Redjah Nacer
 - Houache Youcef
-- Yennek Aldjia
 
 ## Présentation générale
 
